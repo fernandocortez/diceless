@@ -39,7 +39,6 @@ export function App() {
     setDice(
       produce((draftDice) => {
         const value = Math.max(parseInt(e.target.value), 0);
-        debugger;
         draftDice.set(die, value);
       })
     );
