@@ -1,14 +1,16 @@
-main {
-  padding: 1rem;
-}
+@media screen {
+  main {
+    padding: 1rem;
+  }
 
-table,
-th,
-td {
-  border: 1px solid;
-}
+  table,
+  th,
+  td {
+    border: 1px solid;
+  }
 
-th,
-td {
-  padding: 0.5rem;
+  th,
+  td {
+    padding: 0.5rem;
+  }
 }
