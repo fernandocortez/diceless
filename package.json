@@ -10,10 +10,10 @@
   },
   "dependencies": {
     "immer": "^10.0.3",
-    "preact": "^10.18.1"
+    "preact": "^10.19.3"
   },
   "devDependencies": {
-    "@preact/preset-vite": "^2.5.0",
-    "vite": "^4.4.11"
+    "@preact/preset-vite": "^2.7.0",
+    "vite": "^4.5.1"
   }
 }
