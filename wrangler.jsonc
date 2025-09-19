@@ -1,0 +1,6 @@
+{
+    "name": "diceless",
+    "assets": {
+        "directory": "./dist"
+    }
+}
