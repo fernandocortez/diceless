@@ -2,5 +2,6 @@
     "name": "diceless",
     "assets": {
         "directory": "./dist"
-    }
+    },
+    "compatibility_date": "2025-12-11"
 }
